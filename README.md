@@ -1,4 +1,2 @@
 # ML-Algorithms
-The folder contains the fundamental algorithms used in supervised learning. It is inteded as a review of the main topics discussed during the univerisity courses. The algorithms are divided according to the tasks where they are more effective. 
-
-The folder is under updating...
+The folder contains the fundamental algorithms used in supervised learning. It is inteded as a review of the main topics discussed during the univerisity courses. The algorithms are divided according to the tasks they solve. The latter statement does not imply that a particular algorithm is suitable just for a regression or a classification task, but it dependes on how it is implemented (e.g., KNN or Perceptron can be used for both classification and regression task, but we chose to adapt the algorithms to solve just one of them).   
